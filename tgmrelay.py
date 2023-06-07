@@ -10,8 +10,8 @@ from pprint import pprint
 config = {
     "name": "tgmrelay",
     "messages": "messages.db",
-    "api_id": 2843096,
-    "api_hash": "b3fe86810322a24fc277cde79cd318ca",
+    "api_id": 3899724,
+    "api_hash": "78884de73e8aec575ecbe9cf4e11bf20",
     "source_chat_id": -1001461338272,
     "source_chat_kursk_nov": -1001651474042,
     "source_chat_kurskbomond": -1001421494607,
