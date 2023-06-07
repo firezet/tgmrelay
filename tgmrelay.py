@@ -12,13 +12,13 @@ config = {
     "messages": "messages.db",
     "api_id": 3899724,
     "api_hash": "78884de73e8aec575ecbe9cf4e11bf20",
-    "source_chat_id": -1001461338272,
+    "source_chat_id": -1001851907744,
     "source_chat_kursk_nov": -1001651474042,
     "source_chat_kurskbomond": -1001421494607,
     "source_chat_Kurskk_dtp": -1001279355664,
     "source_chat_Kursk_gide": -1001322836648,
     "source_chat_zhest_kursk_46": -1001449911101,
-    "target_chat_id": -1001597517662,
+    "target_chat_id": -1001702767543,
 }
 
 
